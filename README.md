@@ -1,7 +1,7 @@
 # Adventure-Game
 My Adventure game is about real life choices. For example, the first decision that you have to make is go outside or stay inside. This game is about choosing an option that will lead to another option. I will be adding more endings later on.
 
-![Uploading image.png…]()
+
 <html>
 <head>
   <title>My Adventure game</title>
@@ -12,5 +12,4 @@ My Adventure game is about real life choices. For example, the first decision th
   <p>
     My Adventure game is about real life choices. For example, the first decision that you have to make is go outside or stay inside. This game is about choosing an option that will lead to another option. <b> I will be adding more endings later on</b> </p>
     <a href="https://x.thunkable.com/projects/618c2271932eff0011f524fe/f8cba965-2a2e-464a-8227-04102e310b43/designer"> Adventure Game </a>
-</body>
 <link rel="stylesheet" href="Css.css">
