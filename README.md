@@ -4,7 +4,7 @@ My Adventure game is about real life choices. For example, the first decision th
 
 <html>
 <head>
-  <title>My Adventure game</title>
+  My Adventure game
 </head>
 <body>
   <h1>My Adventure Game </h1>  
