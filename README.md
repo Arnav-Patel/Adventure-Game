@@ -1,11 +1,6 @@
-# Adventure-Game
-My Adventure game is about real life choices. For example, the first decision that you have to make is go outside or stay inside. This game is about choosing an option that will lead to another option. I will be adding more endings later on.
 
 
 <html>
-<head>
-  My Adventure game
-</head>
 <body>
   <h1>My Adventure Game </h1>  
   <image src="https://warnercnr.colostate.edu/wp-content/uploads/sites/2/2017/04/shutterstock_428626417-1024x683.jpg" id="image1">
